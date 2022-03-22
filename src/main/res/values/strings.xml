@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="amount">Amount:</string>
+    <string name="enter_amount">Rupees</string>
+
+    <string name="rate">Interest rate :</string>
+    <string name="enter_rate">%</string>
+    <string name="time">Loan Tenure :</string>
+    <string name="enter_time" >Years</string>
+    <string name="calculate_emi">Calculate  EMI</string>
+    <string name="by">By Subhasish Aditya </string>
+
+</resources>
