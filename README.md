@@ -1,6 +1,6 @@
 # EMI-Calculator
 ### Android application to calculate EMI
-### Simple and beautiful app built using java.
+### Simple and beautiful app developed with android studio using java.
 ### Goal: To calculate EMI
 ### Algorithm:
 1.start
